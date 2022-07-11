@@ -1,0 +1,11 @@
+module.exports = {
+    API_KEY: "wvA90vQkaoaBTeRaOXkNhH-raj4mBarxtkYpf1Ms",
+    SECRET_KEY: "3rDY4zS6jYPbLLaMVkE0UNf8eAFPS57z30edrGjT",    
+    SYMBOL: "ETHUSD",
+    POSITION_SIZE: 0.01,
+    NUM_BUY_GRID_LINES: 5,
+    NUM_SELL_GRID_LINES: 5,
+    GRID_SIZE: 0.25,
+    CHECK_ORDERS_FREQUENCY: 1,
+    CLOSED_ORDER_STATUS: 'closed'
+};
